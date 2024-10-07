@@ -1,0 +1,6 @@
+[submodule "SG-Client"]
+	path = SG-Client
+	url = https://github.com/JohnnyParra/SG-Client.git
+[submodule "SG-Server"]
+	path = SG-Server
+	url = https://github.com/JohnnyParra/SG-Server.git
