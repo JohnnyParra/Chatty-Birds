@@ -1,0 +1,6 @@
+[submodule "Chatty-Birds-Client"]
+	path = Chatty-Birds-Client
+	url = https://github.com/JohnnyParra/Chatty-Birds-Client
+[submodule "Chatty-Birds-Server"]
+	path = Chatty-Birds-Server
+	url = https://github.com/JohnnyParra/Chatty-Birds-Server
